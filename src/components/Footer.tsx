@@ -1,4 +1,3 @@
-import React from 'react';
 import '../style/style.css'
 import '../style/responsive.css'
 import { useEffect } from "react";
